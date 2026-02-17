@@ -86,7 +86,7 @@ This solution bridges the gap between human language and structured government d
 4. **Performance Tracking**:  
    - Memory usage and inference time are logged for optimization and debugging.
 
-For a detailed explanation of the methodology, see the [Project Report][1].
+For a detailed explanation of the methodology, see the [Project Report](https://github.com/SailajaMudu/SmartSearchify-AI-Enabled-Semantic-Search-for-eSankhyiki-Portal/blob/main/Resources/Project_Report.pdf).
 
 ---
 
@@ -152,7 +152,7 @@ streamlit run app.py
 - **Memory Usage**: ~1.1 GB on first load, ~200 MB per query
 - **Hybrid Search**: Cosine similarity for initial filtering, cross-encoder for re-ranking ensures both speed and accuracy
 
-For detailed experiments, benchmarks, and methodology, refer to the [Project Report][1].
+For detailed experiments, benchmarks, and methodology, refer to the [Project Report](https://github.com/SailajaMudu/SmartSearchify-AI-Enabled-Semantic-Search-for-eSankhyiki-Portal/blob/main/Resources/Project_Report.pdf).
 
 ---
 
@@ -176,7 +176,8 @@ For licensing details, please contact the repository owner.
 - [scikit-learn LinearSVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)
 - [Sentence Transformers](https://www.sbert.net/)
 - [eSankhyiki Portal](https://www.esankhyiki.gov.in/)
-- [Project Report][1]
+- [Project Report](https://github.com/SailajaMudu/SmartSearchify-AI-Enabled-Semantic-Search-for-eSankhyiki-Portal/blob/main/Resources/Project_Report.pdf)
+- [Presentation Slides](https://github.com/SailajaMudu/SmartSearchify-AI-Enabled-Semantic-Search-for-eSankhyiki-Portal/blob/main/Resources/Project_Presentation.pptx)
 
 ---
 
